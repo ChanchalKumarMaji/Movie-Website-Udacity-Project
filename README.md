@@ -1,2 +1,2 @@
 # Movie-Website-Udacity-Project
-Movie-Website
+Movie-Website-Udacity-Project
